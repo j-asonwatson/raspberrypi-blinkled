@@ -1,4 +1,5 @@
 # Test from PC
+# https://www.raspinews.com/blinking-led-on-raspberry-pi-using-python
 import RPi.GPIO as GPIO
 import time
 LedPin = 5    # pin5
